@@ -1,0 +1,15 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+.blogItems{
+    width: 35%;
+    margin-left: 33%;
+}
+.blogHead{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}

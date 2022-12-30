@@ -1,0 +1,24 @@
+.btn{
+    background-color: rgb(173, 115, 228);
+    margin: 20px;
+    position: absolute;
+    top: 1.5rem;
+    right: 3rem;
+    padding: 8px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 20px;
+    border: 8px solid black; 
+    cursor: pointer;
+    font-weight:500;
+}
+.btn:hover{
+    border-radius: 15px;
+    font-weight: 600;
+    background-color: blueviolet;
+
+}
+#change{
+    background: #eee;
+    color: black;
+}
